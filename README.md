@@ -1,5 +1,4 @@
 # Akshat Parikh's Design Portfolio
-https://akshat122805.github.io/DesignPortfolio2025/
 
 # Lyra Health
 <p>Lyra Health is a leading mental health platform that connects users with high-quality care through an intuitive digital experience. I designed an enhanced user interface tailored for student-athletes and academic students, focusing on accessibility, personalization, and streamlined navigation. By optimizing user flows and reducing friction in accessing resources, my designs increased engagement and led to higher user conversion rates, making mental health support more approachable and effective.</p>
